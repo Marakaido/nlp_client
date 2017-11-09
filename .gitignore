@@ -5,6 +5,6 @@
 *.jar
 *.sw?
 
-out
-.idea
-.gradle
+/out
+/.idea
+/.gradle
